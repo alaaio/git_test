@@ -1,16 +1,26 @@
 **الاعدادات**
 
 - تجهيز معلومات المستخدم المستخدمة من قبل جميع الحاويات البرمجية
-	- ```git config --global user.name "[اسمك]"```
-	- ```git config --global user.email "[عنوان بريدك الالكتروني]"```
+	```bash 
+	git config --global user.name "[اسمك]"
+	```
+	```bash 
+	git config --global user.email "[عنوان بريدك الالكتروني]"
+	```
 
 - اعداد التلوين التلقائي لتلوين الأومر البرمجية لـ غت للمراجعة السهلة
-	- ```git config --global color.ui auto```
+	```bash 
+	git config --global color.ui auto
+	```
 
 
 - تحديد اسم المستخدم ليتم استخدامه من قبل جميع الحاويات البرمجية 
-	- ```git config --global user.name "[الاسم]"```
+	```bash 
+	git config --global user.name "[الاسم]"
+	```
 
 
 - تحديد بريد المستخدم الالكتروني ليتم استخدامه من قبل جميع الحاويات البرمجية
-	- ```git config --global user.email "[عنوان بريدك الالكتروني]"```
+	```bash 
+	git config --global user.email "[عنوان بريدك الالكتروني]"
+	```
